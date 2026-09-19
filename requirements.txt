@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+pydantic-settings
+python-dotenv
+openai
+chromadb
+networkx
+pypdf
+python-docx
+beautifulsoup4
+requests
